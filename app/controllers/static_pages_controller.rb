@@ -8,9 +8,4 @@ class StaticPagesController < ApplicationController
         
         #puts JSON.pretty_generate(@ical)
     end
-
-    def private
-    def is_available
-    end
-
 end
